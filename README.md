@@ -1,1 +1,1 @@
-This project will display my knowledge of html, css, and javascript by recreating the google homepage.
+This project will display my knowledge of html and css by recreating the google homepage.
